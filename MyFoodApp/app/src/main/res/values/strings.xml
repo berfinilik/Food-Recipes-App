@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Food App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Beef">Et Yemekleri</string>
+    <string name="Chicken">Tavuk Yemekleri</string>
+    <string name="Dessert">Tatlılar</string>
+    <string name="Lamb">Kuzu Yemekleri</string>
+    <string name="Miscellaneous">Çeşitli Yemekler</string>
+    <string name="Pasta">Makarna</string>
+    <string name="Pork">Domuz Eti Yemekleri</string>
+    <string name="Seafood">Deniz Ürünleri</string>
+    <string name="Side">Yan Lezzetler</string>
+    <string name="Starter">Başlangıçlar</string>
+    <string name="Vegan">Vegan Yemekler</string>
+    <string name="Vegetarian">Vejetaryen Yemekler</string>
+    <string name="Breakfast">Kahvaltı</string>
+    <string name="Goat">Keçi Eti Yemekleri</string>
+
+
+
+</resources>
